@@ -1,3 +1,4 @@
+//Importing path and router libraries
 const path = require("path");
 const router = require("express").Router();
 
