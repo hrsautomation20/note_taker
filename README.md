@@ -43,17 +43,43 @@ Note Taker that can be used to write and save notes. This application will use a
 
 ## Usage Tips
 
+### Note Taker to run locally perform the below step:-
+- Download the Repo as ZIP file or clone it locally
+- Open the repo folder to your favorite code editor
+- install the dependency
+- run node server.js or nodemon server.js in your terminal
+- open browser and paste the following url http://localhost:3001
+
 <a name="feature"></a>
 
 ## App Features
+
+Open the [Deployed App](https://hr-note-taker.herokuapp.com/)
+
+Click on Get Started
+![img1](./public/assets/images/notetaker1.PNG "notetaker1.PNG")
+
+Add your title to "Note Title" and your note details in to "Note Text" then click on Save button. Click on Trash icon to delete any saved notes
+![img2](./public/assets/images/notetaker2.PNG "notetaker2.PNG")
+
+![img3](./public/assets/images/notetaker.gif "notetaker.gif")
 
 <a name="command"></a>
 
 ## Install Command
 
+To install dependency enter the command "npm i" or npm install" in your terminal
+
+### Dependency
+
+- [express](https://nodejs.org/en/)
+- [uuid-key-generator](https://www.npmjs.com/package/uuid-key-generator)
+
 <a name="credits"></a>
 
 ## Credits
+
+[hrsautomation20](https://github.com/hrsautomation20)
 
 <a name="licenses"></a>
 
